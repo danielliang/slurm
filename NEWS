@@ -32,6 +32,7 @@ documents those changes that are of interest to users and administrators.
  -- X11 forwarding - fix an unnecessary error message when using the
     local_xauthority X11Parameters option.
  -- Add NoAddrCache CommunicationParameter.
+ -- Don't ping powering up cloud nodes.
 
 * Changes in Slurm 18.08.5-2
 ============================
