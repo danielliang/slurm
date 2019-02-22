@@ -33,6 +33,7 @@ documents those changes that are of interest to users and administrators.
     local_xauthority X11Parameters option.
  -- Add NoAddrCache CommunicationParameter.
  -- Don't ping powering up cloud nodes.
+ -- Add cloud_dns SlurmctldParameter.
 
 * Changes in Slurm 18.08.5-2
 ============================
